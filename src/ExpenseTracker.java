@@ -6,6 +6,7 @@
 */
 
 //pretty easy project!!
+//Initialized repository on Darcie's.
 import java.awt.*;
 import javax.swing.*;
 
