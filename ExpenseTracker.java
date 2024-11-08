@@ -63,14 +63,15 @@ class Frame {
         
         return panel;
     }
-
-    private JPanel createPeiChartPanel() 
+    //small changes - no change
+    private JPanel createPieChartPanel() 
     {
         JPanel panel = new JPanel();
         panel.setBounds(200, 15, 328, 220);
         panel.setBackground(Color.white);
        
         return panel;
+ 
     }
 
     private JPanel createTrendChartPanel()
